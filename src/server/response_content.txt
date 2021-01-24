@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<TITLE>Response</TITLE>
+</HEAD>
+<BODY>
+<CENTER>
+<H1>Response from the custom TCP server</H1>
+</CENTER>
+</BODY>
+</HTML>
