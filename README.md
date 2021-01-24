@@ -7,7 +7,7 @@ TCP client & server is applications created for the educational purposes.
 ## Install
 ```console
 git clone https://github.com/rostislav-nikitin/edu.tcp-client-server.git \
-	&& cd edu.tcp-client-server
+	&& cd edu.tcp-client-server/src
 ```
 
 ## Build
